@@ -1,0 +1,47 @@
+html {
+    background: url(https://media.istockphoto.com/id/1278527193/es/vector/ilustraci%C3%B3n-vectorial-de-un-hombre-sentado-en-una-computadora-un-administrador-del-sistema.jpg?s=2048x2048&w=is&k=20&c=tgAQ21iPgAZcLrqhHC0RkI9CXWUv3JrrSrbsHxH3uak=) no-repeat center fixed;
+    background-size: cover;
+}
+
+button {
+    background-color: #2a9d8f;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+* {
+    /**background-color: rgb(145, 186, 248);*/
+    color: #ffb703;
+    text-align: center;
+}
+
+h1 { 
+    width: 1000px;
+    position: relative;
+    left: 18%;
+    border-style: solid;
+    border-width: medium;
+    border-color:  #226f54 #e0aaff #f72585 #03045e;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Pixelify Sans', cursive;
+
+}
+
+h2, h3 {
+    font-family: 'Pixelify Sans', cursive;
+}
+
+
+body {
+    font-family: 'Pixelify Sans', cursive;
+
+}
